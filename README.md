@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 5 hours writing to codes every day.
 
 [![Oğuz Kaan GitHub stats](https://github-readme-stats.vercel.app/api?username=mekroket)](https://github.com/mekroket)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekroket)](https://github.com/mekroket)
