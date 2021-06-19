@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [İnstagram : @__oguz_kaan__](https://www.instagram.com/__oguz_kaan__/?hl=tr) [Youtube : Unlemtab](https://www.youtube.com/channel/UCOvKB_NGWD8LAfOG3uqvP7A)
 - ⚡ Fun fact: I spend almost 5 hours writing to codes every day.
 
--Follow Me ⚡ </br>
+-Follow Me ⚡ </br></br>
 [<img height="32" width="32"  color : yellow src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/__oguz_kaan__/?hl=tr)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCOvKB_NGWD8LAfOG3uqvP7A)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/discord.svg" />](https://discord.gg/HwpJFNFnyX)
