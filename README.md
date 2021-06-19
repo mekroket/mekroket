@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**mekroket/mekroket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hello I'm Oğuz Kaan Ekin 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on student and freelencer
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-end and Back-end developer
 - 📫 How to reach me: İnstagram : @ __oguz_kaan__
 - ⚡ Fun fact: I spend almost 5 hours writing to codes every day.
--->
+
