@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 </br>
 -Github Stats ⚡ 
-
 [![Oğuz Kaan GitHub stats](https://github-readme-stats.vercel.app/api?username=mekroket)](https://github.com/mekroket)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekroket)](https://github.com/mekroket)
 
