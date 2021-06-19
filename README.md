@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/o%C4%9Fuz-kaan-ekin-b82585201/)
 
 Tech I Use
-<img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25">
 
 [![Oğuz Kaan GitHub stats](https://github-readme-stats.vercel.app/api?username=mekroket)](https://github.com/mekroket)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekroket)](https://github.com/mekroket)
