@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 5 hours writing to codes every day.
 
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />](https://www.instagram.com/__oguz_kaan__/?hl=tr)
-[Youtube](https://www.youtube.com/channel/UCOvKB_NGWD8LAfOG3uqvP7A)
-[Discord](https://discord.gg/HwpJFNFnyX)
-[instagram Post Page](https://www.instagram.com/codershift/?hl=tr)
-[Linkedin](https://www.linkedin.com/in/o%C4%9Fuz-kaan-ekin-b82585201/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/__oguz_kaan__/?hl=tr)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCOvKB_NGWD8LAfOG3uqvP7A)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/discord.svg" />](https://discord.gg/HwpJFNFnyX)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/o%C4%9Fuz-kaan-ekin-b82585201/)
 
 
 [![Oğuz Kaan GitHub stats](https://github-readme-stats.vercel.app/api?username=mekroket)](https://github.com/mekroket)
