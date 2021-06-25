@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [İnstagram : @__oguz_kaan__](https://www.instagram.com/__oguz_kaan__/?hl=tr) [Youtube : Unlemtab](https://www.youtube.com/channel/UCOvKB_NGWD8LAfOG3uqvP7A)
 - ⚡ Fun fact: I spend almost 5 hours writing to codes every day.
 
--Glad to see you here!
+-Glad to see you here! </br>
 ![](https://komarev.com/ghpvc/?username=your-github-mekroket&color=green)
 
 -Follow Me ⚡ </br></br>
