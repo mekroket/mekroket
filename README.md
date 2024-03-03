@@ -2,8 +2,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on student and freelencer
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on İnstagram
+- 🌱 I use nodejs technology as a backend developer
+- 👯 I use figma for mobile and web designs
 - 🤔 I’m looking for help with Python and Javascript
 - 💬 Ask me about Front-end and Back-end developer
 - 📫 How to reach me: [İnstagram : @__oguz_kaan__](https://www.instagram.com/__oguz_kaan__/?hl=tr) [Youtube : Unlemtab](https://www.youtube.com/channel/UCOvKB_NGWD8LAfOG3uqvP7A)
