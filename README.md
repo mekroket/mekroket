@@ -1,27 +1,28 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Oguz%20Kaan%20Ekin&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Designer&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
-  <p>
-    <a href="https://www.behance.net/oguzkaanekin" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-    </a>
-    <a href="https://www.instagram.com/oguz.kaan.ekin" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/oguz-kaan/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://stackoverflow.com/users/15243911/o%c4%9fuz-kaan-ekin" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-    </a>
-    <a href="https://x.com/Oguzkaanekin" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-     <a href="mailto:iletisim@oguzkaanekin.site" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Oguz%20Kaan%20Ekin&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20Designer&descAlignY=65&descAlign=50)
+
+<p>
+  <a href="https://www.behance.net/oguzkaanekin" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://www.instagram.com/oguz.kaan.ekin" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/oguz-kaan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/15243911/o%c4%9fuz-kaan-ekin" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://x.com/Oguzkaanekin" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+   <a href="mailto:iletisim@oguzkaanekin.site" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -32,6 +33,7 @@
 - 🌱 I specialize in **Backend development** using **Node.js, PHP & Python**.
 - 🎨 I create modern UI/UX designs for web & mobile using **Figma**.
 - 👯 I’m looking to collaborate on open-source **JavaScript** projects.
+- 💬 Ask me about **Front-end** and **Back-end** development.
 - ⚡ **Fun fact:** I spend almost 5 hours writing code every day!
 
 ---
