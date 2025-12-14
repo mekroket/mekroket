@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Oguz%20Kaan%20Ekin&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20Designer&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Oguz%20Kaan%20Ekin&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20and%20Designer&descAlignY=65&descAlign=50)
 
 <p>
   <a href="https://www.behance.net/oguzkaanekin" target="_blank">
@@ -29,7 +29,7 @@
 
 ### 💫 About Me
 
-- 🎓 I’m a **Computer Engineering Student** and a **Freelance Developer**.
+- 🎓 I’m a **Management Information Systems Student** and a **Freelance Developer**.
 - 🌱 I specialize in **Backend development** using **Node.js, PHP & Python**.
 - 🎨 I create modern UI/UX designs for web & mobile using **Figma**.
 - 👯 I’m looking to collaborate on open-source **JavaScript** projects.
