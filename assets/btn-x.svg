@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="64" viewBox="0 0 320 64">
+  <rect x="1" y="1" width="318" height="62" rx="6" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="59" width="318" height="4" fill="#e6edf3"/>
+  <g transform="translate(80.7 16.0)">
+      <path d="M3 3 h6.5 L25 25 h-6.5 z" fill="none" stroke="#e6edf3" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M24.5 3 L16 12.6 M3.5 25 L12 15.4" stroke="#e6edf3" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <text x="122.7" y="36.5" fill="#e6edf3" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="18" letter-spacing="0.5">X / TWITTER</text>
+</svg>

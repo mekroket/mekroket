@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="64" viewBox="0 0 320 64">
+  <rect x="1" y="1" width="318" height="62" rx="6" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="59" width="318" height="4" fill="#f48024"/>
+  <g transform="translate(64.8 16.0)">
+      <path d="M3 15 v10 h20 v-10" fill="none" stroke="#f48024" stroke-width="2.2"/>
+      <path d="M7 21 h12 M7.4 16.8 l11.8 1.4 M8.6 12.6 l11.4 3.4 M10.8 8.4 l10.4 5.6 M14.4 4.4 l8.8 7.6" stroke="#f48024" stroke-width="2.2"/>
+  </g>
+  <text x="106.8" y="36.5" fill="#e6edf3" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="18" letter-spacing="0.5">STACK OVERFLOW</text>
+</svg>
